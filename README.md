@@ -28,8 +28,9 @@ The project includes queries for:
 - Aggregated metrics
 
 ## 🛠 Tech Stack
-- PostgreSQL / MySQL (replace with what you used)
-- SQL
+- PostgreSQL
+- SQL (Joins, Aggregations, Grouping)
+- Relational Database Design
 
 ## 🚀 How to Use
 1. Run the `schema.sql` file to create the database
